@@ -35,11 +35,11 @@ module.exports.datastores = {
   default: {
 
    adapter: "sails-mysql",
-   user: "root",
-   password: "",
+   user: "Crater",
+   password: "admin12345",
    port: "3306",
-   host: "localhost",
-   database: "crater365portal"
+   host: "134.122.126.5",
+   database: "Crater"
   },
 
 
