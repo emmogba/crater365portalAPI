@@ -16,7 +16,7 @@ module.exports = {
       model: 'Users'
     },
     post: {
-      model: 'Post'
+      model: 'Posts'
     }
   },
 
