@@ -17,6 +17,18 @@ module.exports = {
         type: 'string',
         defaultsTo: ''
       },
+      avatar: {
+        type: 'string',
+        required: true
+      },
+      coverImage: {
+        type: 'string',
+        required: true
+      },
+      type: {
+        type: 'string',
+        required: true
+      },
       members: {
         collection: 'Users',
 
