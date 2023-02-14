@@ -13,8 +13,10 @@
     "sails-hook-grunt": "^5.0.0",
     "sails-hook-orm": "^4.0.0",
     "sails-hook-sockets": "^2.0.0",
+    "sails-hook-swagger-ui": "^0.1.9",
     "sails-mongo": "^2.0.0",
-    "sails-mysql": "3.0.0"
+    "sails-mysql": "3.0.0",
+    "sails-util-micro-apps": "^1.1.1"
   },
   "devDependencies": {
     "eslint": "5.16.0"

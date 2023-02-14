@@ -17,6 +17,8 @@ module.exports = {
     location: {type:'string', required:true},
     email: {type:'string', required:true},
     password: {type:'string', required:true},
+    avatar: {type:'string', required:true},
+    imaage: {type:'string', required:true},
 
 
   },
