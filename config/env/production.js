@@ -148,9 +148,9 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     cors: {
-       allowOrigins: [
-        'http://localhost:8081',
-     ]
+      allRoutes: true,
+      allowOrigins: '*',
+      allowCredentials: true,
     },
 
   },
